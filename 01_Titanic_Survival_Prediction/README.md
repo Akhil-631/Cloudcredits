@@ -345,7 +345,6 @@ models/titanic_survival_model_retained.pkl
 │   ├── ...
 │   └── 16_prediction_result.png
 ├── models/
-│   ├── titanic_survival_model.pkl
 │   └── titanic_survival_model_retained.pkl
 ├── notebooks/
 │   └── 01_Titanic_EDA.ipynb
