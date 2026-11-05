@@ -1,0 +1,31 @@
+# Virtual environments
+.venv/
+venv/
+env/
+**/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Project datasets
+02_Sentiment_Analysis/data/raw/
+02_Sentiment_Analysis/data/processed/
