@@ -110,6 +110,21 @@ The analysis included:
 
 EDA visualizations are available in the `images/` directory.
 
+### EDA visualizations
+
+The following charts summarize the exploratory analysis. They are displayed directly from the repository's `images/` directory.
+
+![Sentiment distribution](images/01_sentiment_distribution.png)
+
+![Review length distribution](images/02_review_length_distribution.png)
+
+![Review length by sentiment](images/03_review_length_by_sentiment.png)
+
+![Top 20 frequent words](images/04_top_20_frequent_words.png)
+
+![Positive and negative vocabulary comparison](images/05_sentiment_vocabulary_comparison.png)
+
+
 ## 5. Text Preprocessing
 
 A custom preprocessing function was implemented in `src/preprocess.py`.
@@ -222,6 +237,16 @@ The test-set results were also considered during the final comparison and select
 ## 9. Streamlit Application
 
 An interactive web application was developed using Streamlit.
+
+### Application screenshots
+
+The screenshots below show the main interfaces of the Streamlit application.
+
+![Single review analysis](images/06_single_review_analysis.png)
+
+![Batch review analysis](images/07_batch_review_analysis.png)
+
+![Model information](images/08_model_information.png)
 
 ### Features
 
